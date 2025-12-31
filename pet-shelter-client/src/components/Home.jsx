@@ -6,7 +6,7 @@ const Home = () => {
   console.log(S3_BUCKET_URL);
   return (
     <div className='home'>
-      <h2>Welcome to our Pet Shelter</h2>
+      <h2>Welcome to Zuleyka's Pet Shelter</h2>
       <p>
         Welcome to AnyCompany Pet Shelter, where we care for and find loving homes for stray and abandoned pets.
         Our shelter provides a safe haven for dogs and cats while we work tirelessly to match them with their
